@@ -1,5 +1,7 @@
 # Exercise 2
 
+Group members: Martin McLaren, Nicolas Ong, Truong Pham
+
 In this lab exercise, we apply the basic principles of kinematics and odometry to the robot control problem, performing basic movement tasks with our Duckiebot. We used the Robot Operating System (ROS) as a platform to develop, test, and run our control software, and interacted with our robot's systems using the various components of the ROS architecture. We gained a deeper understanding of the elements of the ROS system, how to use those elements to solve problems using our robot, and an appreciation of the gap between robot control concepts in principle vs. in practice.
 
 This repository uses the ROS templates provided by Duckietown. 
