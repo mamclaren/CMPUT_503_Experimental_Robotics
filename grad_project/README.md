@@ -2,7 +2,7 @@
 
 Group members:  Martin McLaren
 
-[This repository contains all the code for the graduate project]
+Report: https://sites.google.com/ualberta.ca/cmput503-mamclare/grad-project
 
 In this project, we apply optical flow analysis to the robot control problem, specifically looking at methods for estimating a mobile robot's deviation from a fixed course using the perceived motion of objects in its environment. This deviation is then used in conjunction with feedback control to correct the robot's trajectory, allowing for navigation around a simple track.
 
