@@ -1,0 +1,11 @@
+<launch>
+
+  <group ns="$(arg veh)">
+
+    <node pkg="optical_flow_navigation" type="camera_detection.py" name="camera_detection_node" output="screen"/>
+    <node pkg="optical_flow_navigation" type="odometry.py" name="odometry_node" output="screen"/>
+    <node pkg="optical_flow_navigation" type="navigation_loop.py" name="navigation_loop" output="screen"/>
+
+  </group>
+
+</launch>
